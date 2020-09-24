@@ -4,7 +4,7 @@ def inicializar():
 		linha = [ ]
 		for j in range(3):
 			linha.append(".")
-		tab.append("x")
+		tab.append(tab)
 	return tab
 
 def main( ):
